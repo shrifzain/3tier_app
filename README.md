@@ -15,5 +15,6 @@ This project demonstrates building a 3-tier web application using React for the 
 - Jenkins
 - Terraform
 - Ansible
+- aws
 
 
